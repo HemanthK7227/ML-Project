@@ -9,7 +9,7 @@ The project has two key components:
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Includes information about student demographics, study habits, family background, and academic performance.
 - Columns include: `gender`, `parental level of education`, `lunch`, `test preparation course`, `math score`, `reading score`, `writing score`, etc.
 
